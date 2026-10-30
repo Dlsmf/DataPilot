@@ -1,0 +1,25 @@
+services:
+  mysql:
+    ports:
+      - "13307:3306"
+    volumes:
+      - data-agent-mysql-inner-data:/var/lib/mysql
+
+  mysql-data:
+    ports:
+      - "13306:3306"
+    volumes:
+      - ./config/mysql:/docker-entrypoint-initdb.d
+      - data-agent-mysql-business-data:/var/lib/mysql
+
+  postgres-data:
+    ports:
+      - "15432:5432"
+    volumes:
+      - ./config/postgres:/docker-entrypoint-initdb.d
+      - data-agent-postgres-business-data:/var/lib/postgresql/data
+
+volumes:
+  data-agent-mysql-inner-data:
+  data-agent-mysql-business-data:
+  data-agent-postgres-business-data:
