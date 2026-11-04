@@ -36,7 +36,7 @@ import java.util.stream.Collectors;
 import static com.alibaba.cloud.ai.dataagent.util.ColumnTypeUtil.wrapType;
 
 /**
- * @author zihen
+ * @author DongHao
  * @date 2025/12/14 17:34
  */
 @Service

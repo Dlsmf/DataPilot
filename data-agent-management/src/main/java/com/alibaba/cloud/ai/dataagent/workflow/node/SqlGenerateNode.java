@@ -52,7 +52,7 @@ import static com.alibaba.cloud.ai.dataagent.util.PlanProcessUtil.getCurrentExec
  * Managing retry logic with schema advice - Providing streaming feedback during
  * regeneration process
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 @Component

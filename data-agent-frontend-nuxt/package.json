@@ -1,5 +1,6 @@
 {
   "name": "data-agent-frontend-nuxt",
+  "author": "DongHao",
   "type": "module",
   "private": true,
   "scripts": {

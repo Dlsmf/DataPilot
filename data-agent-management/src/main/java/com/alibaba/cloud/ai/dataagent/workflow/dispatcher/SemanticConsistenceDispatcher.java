@@ -22,7 +22,7 @@ import lombok.extern.slf4j.Slf4j;
 import static com.alibaba.cloud.ai.dataagent.constant.Constant.*;
 
 /**
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 public class SemanticConsistenceDispatcher implements EdgeAction {

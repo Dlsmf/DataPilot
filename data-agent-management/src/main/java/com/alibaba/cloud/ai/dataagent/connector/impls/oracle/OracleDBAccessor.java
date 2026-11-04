@@ -22,7 +22,7 @@ import com.alibaba.cloud.ai.dataagent.enums.BizDataSourceTypeEnum;
 import org.springframework.stereotype.Service;
 
 /**
- * @author zihenzzz
+ * @author DongHao
  */
 
 @Service("oracleAccessor")

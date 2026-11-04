@@ -22,7 +22,7 @@ import org.springframework.http.codec.ServerSentEvent;
 import reactor.core.publisher.Sinks;
 
 /**
- * @author vlsmb
+ * @author DongHao
  * @since 2025/10/30
  */
 public interface GraphService {

@@ -68,7 +68,7 @@ import reactor.core.scheduler.Schedulers;
  * Handling query results and errors - Providing streaming feedback to users during
  * execution - Managing step-by-step result accumulation
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 @Component

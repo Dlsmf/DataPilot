@@ -49,7 +49,7 @@ import static org.mockito.Mockito.when;
  * 使用真实的 OTel SDK 配一个内存 exporter，断言的是<b>最终导出的 span 数据</b>（属性、状态、父子关系），而不是对 mock
  * 的调用次数——本功能的价值恰恰体现在"Langfuse 上看到的东西对不对"，用 mock 验证 setter 调用无法覆盖 状态判定这类核心逻辑。
  *
- * @author suke
+ * @author DongHao
  */
 class NodeTracingLifecycleListenerTest {
 

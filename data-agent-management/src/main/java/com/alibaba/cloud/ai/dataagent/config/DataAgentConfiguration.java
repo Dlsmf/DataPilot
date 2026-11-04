@@ -98,7 +98,7 @@ import static com.alibaba.cloud.ai.graph.action.AsyncEdgeAction.edge_async;
 /**
  * DataAgent的自动配置类
  *
- * @author vlsmb
+ * @author DongHao
  * @since 2025/9/28
  */
 @Slf4j

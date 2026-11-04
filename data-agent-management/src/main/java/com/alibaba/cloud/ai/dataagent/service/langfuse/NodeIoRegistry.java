@@ -23,7 +23,7 @@ import java.util.Set;
 import static com.alibaba.cloud.ai.dataagent.constant.Constant.*;
 
 /**
- * @author suke
+ * @author DongHao
  * @version 1.0
  * @date 2026-08-08 13:37
  * @description 图节点输入/输出 state key 白名单，供 Langfuse 节点级 span 精确记录 input/output

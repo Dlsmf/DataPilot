@@ -22,8 +22,7 @@ import com.alibaba.cloud.ai.dataagent.enums.BizDataSourceTypeEnum;
 import org.springframework.stereotype.Service;
 
 /**
- * @author HunterPorter
- * @author <a href="mailto:zongpeng_hzp@163.com">HunterPorter</a>
+ * @author DongHao
  */
 
 @Service("h2Accessor")

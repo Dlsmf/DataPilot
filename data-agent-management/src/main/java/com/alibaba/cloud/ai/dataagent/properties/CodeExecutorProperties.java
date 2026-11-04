@@ -24,7 +24,7 @@ import java.time.Duration;
 import static com.alibaba.cloud.ai.dataagent.constant.Constant.PROJECT_PROPERTIES_PREFIX;
 
 /**
- * @author vlsmb
+ * @author DongHao
  * @since 2025/7/12
  */
 @Getter

@@ -1,5 +1,7 @@
 # DataPilot · 企业级智能数据分析 Agent
 
+作者 / 维护者：**DongHao**
+
 基于自然语言进行数据查询、Python 分析与报告生成的学习和演示项目。
 
 > 本项目基于 [Spring AI Alibaba DataAgent](https://github.com/spring-ai-alibaba/DataAgent)，遵循 Apache License 2.0。核心 Agent、RAG、NL2SQL、沙盒和前端能力来自上游；本仓库整理了 DataPilot 项目入口、本地部署配置与运行资料，不将上游实现表述为个人原创。上游基线：`27e7baa`。

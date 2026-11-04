@@ -16,7 +16,7 @@
 package com.alibaba.cloud.ai.dataagent.constant;
 
 /**
- * @author zhangshenghang
+ * @author DongHao
  */
 public final class Constant {
 

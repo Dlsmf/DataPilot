@@ -27,7 +27,7 @@ import java.util.regex.Pattern;
 /**
  * 生产级段落文本分块器 特性：递归降级策略（段落->句子->字符）、智能Overlap、防文本丢失
  *
- * @author zihenzzz
+ * @author DongHao
  * @since 2025-01-03
  */
 @Slf4j

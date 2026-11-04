@@ -1,5 +1,7 @@
 # DataPilot
 
+Author / maintainer: **DongHao**
+
 This repository packages a learning and demonstration edition of [Spring AI Alibaba DataAgent](https://github.com/spring-ai-alibaba/DataAgent), based on upstream commit `27e7baa`. Core implementation belongs to the upstream contributors and remains under Apache License 2.0. DataPilot adds project documentation and local deployment materials.
 
 See the [DataPilot README](README.md) and [local development guide](docs/LOCAL_DEVELOPMENT.md). The original upstream English introduction follows.

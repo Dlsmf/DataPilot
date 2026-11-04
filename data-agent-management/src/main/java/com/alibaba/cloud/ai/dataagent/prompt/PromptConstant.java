@@ -20,7 +20,7 @@ import org.springframework.ai.chat.prompt.PromptTemplate;
 /**
  * Prompt constant class, dynamically loads prompt files
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 public class PromptConstant {
 

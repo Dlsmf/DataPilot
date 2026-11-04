@@ -23,7 +23,7 @@ import org.springframework.stereotype.Service;
 import static com.alibaba.cloud.ai.dataagent.enums.ErrorCodeEnum.*;
 
 /**
- * @author zihen
+ * @author DongHao
  * @date 2025/12/14 17:34
  */
 @Service("sqlServerJdbcConnectionPool")

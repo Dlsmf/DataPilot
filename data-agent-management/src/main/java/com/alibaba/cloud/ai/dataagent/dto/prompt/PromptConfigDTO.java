@@ -18,7 +18,7 @@ package com.alibaba.cloud.ai.dataagent.dto.prompt;
 /**
  * Prompt configuration request DTO
  *
- * @author Makoto
+ * @author DongHao
  */
 
 public record PromptConfigDTO(String id, // Configuration ID (required for update)

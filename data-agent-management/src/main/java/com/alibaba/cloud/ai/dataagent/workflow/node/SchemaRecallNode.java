@@ -47,7 +47,7 @@ import static com.alibaba.cloud.ai.dataagent.constant.Constant.*;
  * Retrieving column documents based on extracted keywords - Organizing schema information
  * for subsequent processing - Providing streaming feedback during recall process
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 @Component

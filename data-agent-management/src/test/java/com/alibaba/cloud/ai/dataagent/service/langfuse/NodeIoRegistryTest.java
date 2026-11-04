@@ -41,7 +41,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * {@code *Node.java} 源文件，把"人工核对白名单是否登记对了"变成自动化检查。这样后续新增节点或改动 output key 时，遗漏会在构建期暴露，而不是等到
  * Langfuse 面板上出现莫名的红色 span 才被发现。
  *
- * @author suke
+ * @author DongHao
  */
 class NodeIoRegistryTest {
 

@@ -71,7 +71,7 @@ import reactor.core.publisher.Flux;
  * Building initial schema from documents - Processing schema selection based on input and
  * evidence - Handling schema advice for missing information
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 @Component

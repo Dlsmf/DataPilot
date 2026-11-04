@@ -30,7 +30,7 @@ import java.util.regex.Pattern;
  * 生产级语义文本分块器 策略：滑动窗口Embedding + 语义相似度切分 + 最大长度强制切分 它尽可能地把句子往一个块里塞（为了上下文完整），直到 塞满了（超长） 或者
  * 发现话题变了（语义突变） 才会停下来切一刀。
  *
- * @author zihenzzz
+ * @author DongHao
  * @since 2025-01-03
  */
 @Slf4j

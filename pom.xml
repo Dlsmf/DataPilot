@@ -10,6 +10,12 @@
   <version>${revision}</version>
   <url>https://github.com/alibaba/spring-ai-alibaba</url>
 
+  <developers>
+    <developer>
+      <name>DongHao</name>
+    </developer>
+  </developers>
+
   <modules>
     <module>data-agent-management</module>
   </modules>

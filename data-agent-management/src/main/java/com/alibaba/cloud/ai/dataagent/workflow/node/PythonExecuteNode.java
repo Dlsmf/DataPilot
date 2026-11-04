@@ -44,7 +44,7 @@ import static com.alibaba.cloud.ai.dataagent.constant.Constant.*;
 /**
  * 根据SQL查询结果生成Python代码，并运行Python代码获取运行结果。
  *
- * @author vlsmb
+ * @author DongHao
  * @since 2025/7/29
  */
 @Slf4j

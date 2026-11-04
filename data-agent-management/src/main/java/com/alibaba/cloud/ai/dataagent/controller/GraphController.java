@@ -34,8 +34,7 @@ import static com.alibaba.cloud.ai.dataagent.constant.Constant.STREAM_EVENT_COMP
 import static com.alibaba.cloud.ai.dataagent.constant.Constant.STREAM_EVENT_ERROR;
 
 /**
- * @author zhangshenghang
- * @author vlsmb
+ * @author DongHao
  */
 @Slf4j
 @RestController

@@ -50,7 +50,7 @@ import static com.alibaba.cloud.ai.dataagent.constant.Constant.*;
  * results - Summarizing data insights and findings - Providing comprehensive answers to
  * user queries - Creating structured final output for users
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 @Component

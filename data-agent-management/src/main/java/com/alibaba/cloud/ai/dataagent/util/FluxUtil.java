@@ -32,7 +32,7 @@ import reactor.core.publisher.Mono;
 import static com.alibaba.cloud.ai.dataagent.constant.Constant.TRACE_THREAD_ID;
 
 /**
- * @author vlsmb
+ * @author DongHao
  * @since 2025/10/22
  */
 public final class FluxUtil {

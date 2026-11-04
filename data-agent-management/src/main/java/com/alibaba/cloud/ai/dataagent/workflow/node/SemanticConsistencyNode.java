@@ -48,7 +48,7 @@ import static com.alibaba.cloud.ai.dataagent.prompt.PromptHelper.buildMixMacSqlD
  * schema and evidence - Providing validation results for query refinement - Handling
  * validation failures with recommendations - Managing step progression in execution plan
  *
- * @author zhangshenghang
+ * @author DongHao
  */
 @Slf4j
 @Component
